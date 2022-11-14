@@ -1,0 +1,33 @@
+{
+  "identifier" : "9FE70311",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "F53871E9",
+      "localizations" : [
+        {
+          "description" : "Remove ads forever!",
+          "displayName" : "Myself - Remove Ads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.removeads.myself",
+      "referenceName" : "removeAds",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
